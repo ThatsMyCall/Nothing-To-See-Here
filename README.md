@@ -1,7 +1,7 @@
 # Nothing-To-See-Here
 
 
-Usefull vSphere 7 and vSphere 8 licenses information found on the internet
+Usefull vSphere 7 license and vSphere 8 license information found on the internet
 
 vSAN 7 Enterprise Plus;
 JG0RU-8AJEN-M8069-X23X0-330P8
